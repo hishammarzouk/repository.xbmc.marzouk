@@ -33,7 +33,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.HRMTV2" version="1.0.0" name="HRMTV2" provider-name="Hisham Marzouk">
+<addon id="plugin.video.HRMTV2" version="1.0.1" name="HRMTV2" provider-name="Hisham Marzouk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   	<import addon="script.module.buggalo" version="1.1.2"/>
@@ -43,7 +43,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Addon made by Hisham marzouk</summary>
+    <summary>Addon made by Hisham Marzouk</summary>
     <description>HRMTV2 :Addon made by Hisham Marzouk This plugin is completely FREE. VISIT MY YOUTUBE-CHANNEL FOR MORE Addons. Channel Name: hisham marzouk  Link:https://www.youtube.com/channel/UC2eG5fa3N4I3yFLepNoXaMw</description>
 
     <platform>all</platform>
