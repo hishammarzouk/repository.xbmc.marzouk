@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.audio.LebanonRadio" version="1.0.0" name="LebanonRadio" provider-name="Hisham Marzouk">
+<addon id="plugin.audio.LebanonRadio" version="1.0.1" name="LebanonRadio" provider-name="Hisham Marzouk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     </requires>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.audio.LebanonRadio" version="1.0.0" name="LebanonRadio" provider-name="Hisham Marzouk">
+<addon id="plugin.audio.LebanonRadio" version="1.0.1" name="LebanonRadio" provider-name="Hisham Marzouk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     </requires>
@@ -7,7 +7,7 @@
     <provides>audio</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Addon made by Hisham marzouk</summary>
+    <summary>Addon made by Hisham Marzouk</summary>
     <description>LebanonRadio : Addon made by Hisham Marzouk This plugin is completely FREE. VISIT MY YOUTUBE-CHANNEL FOR MORE Addons. Channel Name: hisham marzouk  Link:https://www.youtube.com/channel/UC2eG5fa3N4I3yFLepNoXaMw</description>
    
     <platform>all</platform>
