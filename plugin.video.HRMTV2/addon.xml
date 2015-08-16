@@ -13,9 +13,7 @@
     <description>HRMTV2 :Addon made by Hisham Marzouk This plugin is completely FREE. VISIT MY YOUTUBE-CHANNEL FOR MORE Addons. Channel Name: hisham marzouk  Link:https://www.youtube.com/channel/UC2eG5fa3N4I3yFLepNoXaMw</description>
    
     <platform>all</platform>
-	 <website>https://sites.google.com/site/hrmtvxbmcaddon/home</website>
-    <email></email>
-    <source>https://sites.google.com/site/hrmtvxbmcaddon/home/plugin.video.HRMTV2.zip</source>
+	
 		
   </extension>
 </addon>
