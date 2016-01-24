@@ -36,7 +36,7 @@ PLAYLIST_PATH12 = 'plugin://plugin.video.youtube/channel/UCfiwzLy-8yKzIbsmZTzxDg
 PLAYLIST_PATH13 = 'plugin://plugin.video.youtube/channel/UCHAbNxkU837UAkZ-OPtdUUw/'
 PLAYLIST_PATH14 = 'plugin://plugin.video.youtube/channel/UC65zwKz2W3NvfAkt5pGs18w/'
 PLAYLIST_PATH15 = 'plugin://plugin.video.youtube/channel/UCM96e_r6hk9tRT0X_McU9pQ/'
-PLAYLIST_PATH16 = 'plugin://plugin.video.youtube/channel/UC2eG5fa3N4I3yFLepNoXaMw/'
+PLAYLIST_PATH16 = 'plugin://plugin.video.youtube/channel/UCAabZOmEpPA2_SsTYkiZ6mA/'
 
 if __name__ == '__main__':
     ADDON = xbmcaddon.Addon()
@@ -107,7 +107,7 @@ if __name__ == '__main__':
             xbmcplugin.addDirectoryItem(HANDLE, PLAYLIST_PATH15, item, True)
             item = xbmcgui.ListItem('Geo Arabic',
                                     ADDON.getLocalizedString(30001),
-                                    iconImage='https://yt3.ggpht.com/-IH1Kcle0oyU/AAAAAAAAAAI/AAAAAAAAAAA/GegRRTep6YU/s100-c-k-no/photo.jpg')
+                                    iconImage='https://yt3.ggpht.com/-nnH2Ah65PSc/AAAAAAAAAAI/AAAAAAAAAAA/1tNpS5HBqvA/s100-c-k-no/photo.jpg')
             xbmcplugin.addDirectoryItem(HANDLE, PLAYLIST_PATH16, item, True)
             
             item = xbmcgui.ListItem('HISHAM MARZOUK',

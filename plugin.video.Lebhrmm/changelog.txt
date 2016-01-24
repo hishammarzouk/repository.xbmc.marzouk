@@ -1,2 +1,2 @@
 [B]Version 2.0.1[/B]
-- Fix geo Arabic
+- Fix Geo Arabic
