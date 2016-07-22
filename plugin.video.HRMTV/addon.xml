@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.HRMTV" version="1.0.1" name="HRMTV2" provider-name="Hisham Marzouk">
+<addon id="plugin.video.HRMTV2" version="2.0.1" name="HRMTV2" provider-name="Hisham Marzouk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   	<import addon="script.module.buggalo" version="1.1.2"/>

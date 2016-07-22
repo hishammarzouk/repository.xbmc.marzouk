@@ -29,7 +29,7 @@ for CHO in CHOD2:
     df6= CHO.attributes['df0'].value
 rrl = df1 + df2 + df3 +df4 + df5+ df6
 rrl2 = df1 + df2 + df3 +df4 + df5
-URL = urllib.urlopen(rrl +'?attredirects=0&d=1')
+URL = urllib.urlopen(rrl)
 URLimg = rrl2
 
 CHODD = minidom.parse(URL)
