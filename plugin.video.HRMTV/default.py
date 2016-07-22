@@ -16,7 +16,7 @@ urllib.urlopen("http://www.google-analytics.com/collect?v=1&tid=UA-62036260-1&ci
 time.sleep = 15   
 
 from xml.dom import minidom
-ADDON = xbmcaddon.Addon(id='plugin.video.HRMTV2')
+ADDON = xbmcaddon.Addon(id='plugin.video.HRMTV')
 CHOD = open(os.path.join( ADDON.getAddonInfo( 'path' ), 'resources', 'media','logos','code','')+'T.'+ 'jpg','r')
 CHODD = minidom.parse(CHOD)
 CHOD2 = CHODD.getElementsByTagName('item',) 
