@@ -1,9 +1,5 @@
 #Youtube channels
 #
-#
-#
-#
-#
 #Hisham Marzouk
 import re
 import os
@@ -28,7 +24,7 @@ PLAYLIST_PATH4 = 'plugin://plugin.video.youtube/channel/UC9_XmAwE5szLHF76FjMylaw
 PLAYLIST_PATH5 = 'plugin://plugin.video.youtube/channel/UC4JCsTLFcHGk10qpiNMh0Ww/'
 PLAYLIST_PATH6 = 'plugin://plugin.video.youtube/channel/UCBrIvQGxLdxfpeAKXy5wALA/'
 PLAYLIST_PATH7 = 'plugin://plugin.video.youtube/channel/UCGaOCoe5XaJJKNEKWM1WpJQ/'
-PLAYLIST_PATH8 = 'plugin://plugin.video.youtube/channel/UCh8BdTka1DRnu4uHrEB-EaA/'
+PLAYLIST_PATH8 = 'plugin://plugin.video.youtube/channel/UCZPfLELc0v3PN0dacDEasyg/'
 PLAYLIST_PATH9 = 'plugin://plugin.video.youtube/channel/UCpE6gpKewomi17XDyPfpFjA/'
 PLAYLIST_PATH10 = 'plugin://plugin.video.youtube/channel/UCJu-0vnWt0wFMQuLsjzwjRQ/'
 PLAYLIST_PATH11 = 'plugin://plugin.video.youtube/channel/UCWtY7mckeLR__j-Jqcdkv4g/'
@@ -75,7 +71,7 @@ if __name__ == '__main__':
             xbmcplugin.addDirectoryItem(HANDLE, PLAYLIST_PATH7, item, True)
             item = xbmcgui.ListItem('AlManar Channel',
                                     ADDON.getLocalizedString(30001),
-                                    iconImage='https://yt3.ggpht.com/-ojE_FF95vLA/AAAAAAAAAAI/AAAAAAAAAAA/CfBgDYEVqK4/s100-c-k-no/photo.jpg')
+                                    iconImage='https://yt3.ggpht.com/-gp-sWpBwX-g/AAAAAAAAAAI/AAAAAAAAAAA/uc6hFHNVWbo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg')
             xbmcplugin.addDirectoryItem(HANDLE, PLAYLIST_PATH8, item, True)
             item = xbmcgui.ListItem('lbcgroup',
                                     ADDON.getLocalizedString(30001),
@@ -110,7 +106,7 @@ if __name__ == '__main__':
                                     iconImage='https://yt3.ggpht.com/-nnH2Ah65PSc/AAAAAAAAAAI/AAAAAAAAAAA/1tNpS5HBqvA/s100-c-k-no/photo.jpg')
             xbmcplugin.addDirectoryItem(HANDLE, PLAYLIST_PATH16, item, True)
             
-            item = xbmcgui.ListItem('HISHAM MARZOUK',
+            item = xbmcgui.ListItem('Officialhrm.de',
                                     ADDON.getLocalizedString(30001),
                                     iconImage='https://yt3.ggpht.com/-hJVRdFTzvSE/AAAAAAAAAAI/AAAAAAAAAAA/-iBBhqPAy_4/s100-c-k-no/photo.jpg' )
             xbmcplugin.addDirectoryItem(HANDLE, PLAYLIST_PATH3, item, True)
