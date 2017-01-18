@@ -19,7 +19,7 @@ cid = str(rand)
 
 urllib2.urlopen("http://www.google-analytics.com/collect?v=1&tid=UA-63789805-1&cid="+ cid +"&t=event&ec=new%20movement&ea=new%20visit&el=entranece1").close
 
-BASE_URL = 'https://sites.google.com/site/hrmtvxbmcaddon/'
+BASE_URL = 'https://sites.google.com/site/milamouseaddon/'
 PLAY_VIDEO_PATH = 'plugin://plugin.video.youtube/?action=play_video&videoid=%s'
 PLAYLIST_PATH = 'plugin://plugin.video.youtube/channel/UC7Lo9mbZbtSc8kIbxRN8uLg/'
 PLAYLIST_PATH1 = 'plugin://plugin.video.youtube/channel/UCfaNp0IpqyArhTgUfmWc6Lg/'
