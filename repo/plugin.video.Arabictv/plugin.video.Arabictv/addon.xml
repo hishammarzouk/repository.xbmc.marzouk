@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.Arabictv" version="1.0.1" name="Arabictv" provider-name="Hisham Marzouk">
+<addon id="plugin.video.Arabictv" version="1.0.2" name="Arabictv" provider-name="Hisham Marzouk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   	<import addon="plugin.video.youtube" version="3.0.0"/>
@@ -11,7 +11,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Addon made by Hisham marzouk</summary>
+    <summary>Last Update 2019</summary>
     <description>Arabic tv :Addon made by Hisham Marzouk This plugin is completely FREE.
 	Link: https://www.officialhrm.com</description>
 	<platform>all</platform>
